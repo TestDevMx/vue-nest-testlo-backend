@@ -25,4 +25,7 @@ http://localhost:3000/api/seed
 
 # Production notes:
 
+- Db: neon.tech
+- Server: https://vue-nest-testlo-backend-production.up.railway.app/
+
 
